@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-div align="left">
+<div align="left">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Sunnyinho&&count_private=true&show_icons=true&bg_color=ffffff&title_color=1f1f1f&text_color=1f1f1f&icon_color=ffbb00&hide_border=true">
 <img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sunnyinho&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true"/>
